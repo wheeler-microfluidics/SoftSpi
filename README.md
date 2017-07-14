@@ -1,6 +1,9 @@
 
 
 ![https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/SoftSpi?branch=master&svg=true](https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/SoftSpi?branch=master&svg=true)
+
+
+![https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/SoftSpi?branch=master&svg=true](https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/SoftSpi?branch=master&svg=true)
 # ArduinoSoftSpi
 Soft Spi output for the Arduino. This is useful for those trying to read from an sd card while trying to write an APA102 led strip on the Teensy 3.1. Other platforms are likely supported but haven't been verified with this codebase.
 
